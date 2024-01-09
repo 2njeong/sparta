@@ -1,5 +1,5 @@
 :root {
-  --bg--whole-color: black;
+  --bg--whole-color: black; /* 색을 아예 변수로 선언 */
 }
 body {
   /* 태그에 대한 css는 .body 아니고 그냥 body  */
